@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jansi-1.17.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jansi-1.17.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jexer-0.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jline-3.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/MyBank.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
